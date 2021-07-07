@@ -1,2 +1,2 @@
 # html-Portfolio
-https://kush1101.github.io/my-site/
+https://kushagra11.netlify.app/
